@@ -4,3 +4,7 @@ tags:
 ---
 ## Titre
 
+
+{% for tag in page.tags %}
+    {{ tag }}
+{% endfor %}
