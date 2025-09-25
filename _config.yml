@@ -39,4 +39,4 @@ defaults:
       path: ""
       type: post
     values:
-      tags: Other, One, Two, Three, Four
+      tags: TAG1, One, Two, Three, Four
