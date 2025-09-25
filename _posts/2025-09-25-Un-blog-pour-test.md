@@ -7,7 +7,6 @@ tags:
 
 ## Titre
 
-
-{% for tag in page.tags %}
+{% raw %}{% for tag in page.tags %}
     {{ tag }}
-{% endfor %}
+{% endfor %}{% endraw %}
