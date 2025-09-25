@@ -1,3 +1,1 @@
-{% for tag in page.tags %}
-    {{ tag }}
-{% endfor %}
+Torototo
